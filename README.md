@@ -1,6 +1,7 @@
 # Autoban
 Service to prevent bot activity on your site.
 
+!!! PERMANENTLY MOVED TO NEW ADDRESS: http://git.khoz.ru/Khoz/autoban.git
 
 INSTALLATION
 ------------
